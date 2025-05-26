@@ -126,7 +126,7 @@ data-pipeline-monitoring/
 ## 👤 Author
 
 **Yash Shah**  
-[LinkedIn](https://www.linkedin.com/in/yashshah033/) | [GitHub](https://github.com/ShahYash12) | [Portfolio](https://yash-shah-portfolio.notion.site)
+[LinkedIn](https://www.linkedin.com/in/yashshah033/) | [GitHub](https://github.com/ShahYash12) | [Portfolio](https://yash-shah-portfolio.notion.site/Hey-I-m-Yash-1554f5a4160d805397b9cd6cb77977ba)
 
 ---
 
