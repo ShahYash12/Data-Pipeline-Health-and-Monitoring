@@ -1,0 +1,20 @@
+data/sample_pipeline_logs.csv
+
+pipeline_name,status,last_updated
+sales_etl,Success,2025-05-25 09:00:00
+inventory_etl,Failed,2025-05-25 06:00:00
+customer_etl,Success,2025-05-25 11:00:00
+
+data/etl_job_status.csv
+
+job_id,pipeline_name,status,last_run_time
+101,sales_etl,Success,2025-05-25 09:00:00
+102,inventory_etl,Failed,2025-05-25 06:00:00
+103,customer_etl,Success,2025-05-25 11:00:00
+
+data/data_freshness_log.csv
+
+table_name,last_updated
+sales_summary,2025-05-25 09:15:00
+inventory_stock,2025-05-24 18:00:00
+customer_feedback,2025-05-25 10:45:00

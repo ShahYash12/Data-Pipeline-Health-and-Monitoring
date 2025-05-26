@@ -1,0 +1,5 @@
+-- Identify failed jobs from logs
+SELECT *
+FROM etl_job_status
+WHERE status = 'FAILED'
+ORDER BY last_run_time DESC;

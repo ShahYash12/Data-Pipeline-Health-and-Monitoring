@@ -1,0 +1,5 @@
+-- Check for stale pipeline outputs
+SELECT pipeline_name, MAX(last_run_time) AS last_run
+FROM etl_job_status
+GROUP BY pipeline_name
+HAVING MAX(last_run_time) < CURRENT_TIMESTAMP - INTERVAL '6 HOURS';
