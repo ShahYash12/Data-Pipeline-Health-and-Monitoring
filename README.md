@@ -4,7 +4,7 @@
 **Internship Project – Future Investment**  
 **Tools**: SQL, Python, Tableau  
 **Duration**: [Insert Duration]  
-**Role**: Data Analyst Intern
+**Role**: Business Intelligence Analyst
 
 ---
 
