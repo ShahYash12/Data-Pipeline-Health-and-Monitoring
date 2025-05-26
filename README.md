@@ -3,7 +3,7 @@
 
 **Internship Project – Future Investment**  
 **Tools**: SQL, Python, Tableau  
-**Duration**: [Insert Duration]  
+**Duration**: Sep 2023 - Jul 2024
 **Role**: Business Intelligence Analyst
 
 ---
